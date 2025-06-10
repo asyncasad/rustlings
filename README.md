@@ -1,1 +1,1 @@
-List of exercises to practice rust along with reading rust book
+List of exercises 📚️ to practice rust along with reading rust book 🦀
